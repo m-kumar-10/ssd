@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be9b4bbc-7ebe-4606-aa96-c1fa127b6d54" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/miwok/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/miwok/MainActivity.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="29065dac7ce5" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="ghostfile@outlook.com" />
+        <option value="Manish Kumar" />
+        <option value="Udacity code starter edited version" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pi8O03s3GhkpqVPNEhwXRhknSc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="29065dac7ce5" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-03-13T17:15:06.624Z" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.-1536858189">
+      <recent name="com.example.android.miwok" />
+    </key>
+    <key name="android.template.-1278993073">
+      <recent name="com.example.android.miwok" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be9b4bbc-7ebe-4606-aa96-c1fa127b6d54" name="Default Changelist" comment="" />
+      <created>1615654514218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615654514218</updated>
+    </task>
+    <task id="LOCAL-00001" summary="editied source files">
+      <created>1615659092081</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615659092081</updated>
+    </task>
+    <task id="LOCAL-00002" summary="editied source files">
+      <created>1615659159738</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615659159738</updated>
+    </task>
+    <task id="LOCAL-00003" summary="editied source files">
+      <created>1615661171674</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615661171674</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="editied source files" />
+    <option name="LAST_COMMIT_MESSAGE" value="editied source files" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="141" key="#com.intellij.ide.util.MemberChooser" timestamp="1615657136234">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1615657136234" />
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1615659998146">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1615659998146" />
+    <state x="290" y="0" key="CommitChangelistDialog2" timestamp="1615661170114">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="290" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1615661170114" />
+    <state x="499" y="111" key="FileChooserDialogImpl" timestamp="1615661496108">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="111" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1615661496108" />
+    <state x="602" y="325" key="Github.ShareDialog" timestamp="1615658796443">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="602" y="325" key="Github.ShareDialog/0.0.1536.864@0.0.1536.864" timestamp="1615658796443" />
+    <state x="400" y="137" key="Github.UntrackedFilesDialog" timestamp="1615658808936">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="400" y="137" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1615658808936" />
+    <state x="337" y="185" key="IDE.errors.dialog" timestamp="1615655203824">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="337" y="185" key="IDE.errors.dialog/0.0.1536.864@0.0.1536.864" timestamp="1615655203824" />
+    <state x="265" y="0" key="SettingsEditor" timestamp="1615660951352">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="265" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1615660951352" />
+    <state x="453" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1615657007322">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="453" y="266" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1615657007322" />
+    <state x="431" y="181" width="840" height="678" key="search.everywhere.popup" timestamp="1615661493198">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="840" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1615661493198" />
+  </component>
+</project>
